@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/orange-watercolor-background-free-vector.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+  }
+
+.bold {font-weight: bold;}
+
+.justify {text-align: right;}
+
+.italic {
+    font-style: italic;
+}
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    Right: 5px;
+    height: 100px;
+    z-index: 2;
+
+}
+
+.subheader {
+    float: right;
+    border: solid, 2px, black
+}
+
+.p{
+    font-family: papyrus;
+}
+
+.blue {
+    font-style: oblique;
+    color: darkblue;
+}

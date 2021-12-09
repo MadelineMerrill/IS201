@@ -1,0 +1,19 @@
+.arial { 
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.italic{
+    font-style: italic;
+    text-align: center;
+}
+
+.tableau {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: larger;
+        color: darkolivegreen;
+}
+
+.footerborder{
+    border-top: 1px solid #dee2e6 !important;
+}
